@@ -8,7 +8,7 @@ public class Practice4 {
 
         Scanner sc = new Scanner(System.in);
 
-        int a = 0, b = 0, c = 0, d =0, diff;
+        int a , b, c, d, diff;
 
 
         System.out.println("Welcome! Please, insert 4 different numbers: ");
