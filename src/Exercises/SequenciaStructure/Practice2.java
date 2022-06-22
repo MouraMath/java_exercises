@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.SequenciaStructure;
 
 //exercise scanner in
 

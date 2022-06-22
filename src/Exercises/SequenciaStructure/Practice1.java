@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.SequenciaStructure;
 
 import java.util.Locale;
 
